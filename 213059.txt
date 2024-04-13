@@ -1,0 +1,13 @@
+
+$ git add README.md- се додава README фајл кој ќе биде следен во локалниот git репозиториум, фајлот се уште не е комитиран
+$ git commit -m "Initial commit." - се комитира фајлот во локалниот git репозиториум
+$ git add SILab1.java-се додава SILab1.java фајлот кој ќе биде следен во локалниот репозиториум, фајлот се уште не е комитиран
+$ git commit -m "Add java class." -се комитира фајлот во локалниот git репозиториум
+$ git push -u origin master - синхронизација на сите гранки со оддалечениот репозиториум.
+$ git checkout -b bug1-се формира нова гранка bug1 истото и за bug2
+$ git add SILab1_1.java -го додаваме фајлот во новата гранка
+$ git commit -m "Fix wrong condition in filterOddLengthStrings."-се зачувуваат новите промени во репозиториумот во bug1
+$ git checkout bug2-се позиционираме активно на новата гранка
+$ git add SILab1_2.java -го додаваме фајлот во новата гранка
+$ git commit -m "Fix wrong condition in makeBigStringFrom."-се зачувуваат новите промени во репозиториумот во bug2
+$ git push origin --all -Синхронизација master гранката со оддалечениот репозиториум.

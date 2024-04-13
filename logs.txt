@@ -1,0 +1,30 @@
+commit c9358b94558a4a61252e2fb290443695ba6280d9
+Author: SaraStojanovaa <sstojanova02@gmail.com>
+Date:   Sat Apr 13 15:33:21 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 0ff5e08111cd3fd423d82a9c177d5a08d69568ce
+Author: SaraStojanovaa <sstojanova02@gmail.com>
+Date:   Sat Apr 13 15:28:57 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit c077416531ae27f2361ba5a525f9d5e33c434d1f
+Author: SaraStojanovaa <sstojanova02@gmail.com>
+Date:   Sat Apr 13 15:23:36 2024 +0200
+
+    Add starter code
+
+commit 8e8bc109d5eb4690fcf63b07fd0add6dd9e1c559
+Author: SaraStojanovaa <sstojanova02@gmail.com>
+Date:   Sat Apr 13 15:14:48 2024 +0200
+
+    Initial commit
+
+commit cfb07a47a1b412cbd82c4ec8acb026f09fb8b006
+Author: SaraStojanovaa <165669045+SaraStojanovaa@users.noreply.github.com>
+Date:   Fri Apr 12 15:48:01 2024 +0200
+
+    Initial commit
+git log
